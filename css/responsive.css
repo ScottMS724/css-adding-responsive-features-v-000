@@ -3,3 +3,12 @@
     width: 90%;
   }
 }
+
+#social {
+    position: absolute;
+    top: 82px;
+    right: 4px;
+    width: auto;
+}
+
+@
